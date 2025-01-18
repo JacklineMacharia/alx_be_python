@@ -1,4 +1,3 @@
-!#/bin/bash
 import sys
 from bank_account import BankAccount
 
