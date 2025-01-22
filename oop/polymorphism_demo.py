@@ -1,5 +1,5 @@
 import math
-class shape:
+class Shape:
     def area(self):
         raise NotImplementedError("Subclasses should implement this method.")
 class Rectangle(Shape):
